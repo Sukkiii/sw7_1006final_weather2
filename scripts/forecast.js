@@ -27,7 +27,7 @@ const getCity = async(city) => {
 
 // getCity('seoul')
 //   .then(data => {
-//     return getWeather(data.key);
+//     return getWeather(data.Key);
 //   }).catch(err => console.log(err));
 
 
